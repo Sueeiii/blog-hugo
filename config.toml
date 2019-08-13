@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://beautyChen.github.io"
+languageCode = "zh-hans"
+title = "幻想天空"
 theme = "maupassant"
+
+# 默认是70 <!--more-->
+summaryLength = 140
